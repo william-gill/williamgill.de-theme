@@ -1,13 +1,13 @@
 /*
-Theme Name: wiliamgill.de Version-4 Feb 2017 Update
+Theme Name: wiliamgill.de Version-4 Dec 2018 Update
 Theme URI: http://williamgill.de/
 Author: William Gill
 Author URI: http://williamgill.de/
-Description: wiliamgill.de Version-4 Feb 2017 Update
+Description: wiliamgill.de Version-4 Dec 2018 Update
 Version: 1.1
 License: All rights reserved
 License URI: -
-Text Domain: 
+Text Domain:
 Domain Path: /languages/
 Tags:
 
@@ -549,7 +549,7 @@ header#masthead h2 {
 ----------------------------------------------- */
 
 article {
-	padding-top: 2em;	
+	padding-top: 2em;
 }
 
 
@@ -879,7 +879,7 @@ div.main-blog-excerpt-meta {
 		padding: 10px;
 		margin: 0px;
 	}
-	
+
 	div #primary {
 		float: none;
 		margin: 0px;
@@ -887,14 +887,14 @@ div.main-blog-excerpt-meta {
 		font-size: 80%;
 		width: 100%;
 	}
-	
+
 	div #secondary {
 		margin: 0px;
 		padding: 0px;
 		font-size: 70%;
 		width: 100%;
 	}
-	
+
 	div.header-fill {
 		padding: 10px;
 	}
@@ -904,22 +904,22 @@ div.main-blog-excerpt-meta {
 	nav#site-navigation {
 		margin-top: 0;
 	}
-	
+
 	nav#site-navigation.toggled {
 		width: 100%;
 		margin-bottom: 10px;
 	}
-	
+
 	nav#site-navigation.toggled div.menu, nav#site-navigation.toggled div.menu-main-menu-container {
 		margin-top: 20px;
 	}
-	
+
 	nav#site-navigation.toggled h1.menu-toggle {
 		float: right;
 	}
-	
-	
-	
+
+
+
 	div.site-branding {
 		max-width: 200px;
 	}
@@ -929,11 +929,11 @@ div.main-blog-excerpt-meta {
 		background: none;
 		min-height: 0px;
 	}
-	
+
 	body.home div.site-branding {
 		padding-top: 0em;
 	}
-	
+
 	body.home div.site-branding h1.site-title {
 		font-size: 4em;
 	}
@@ -946,40 +946,40 @@ div.main-blog-excerpt-meta {
 	body.home div.site-branding {
 		float: left;
 	}
-	
+
 	body.home header#masthead h1 {
 		font-size: 200%;
 	}
-	
+
 	body.home header#masthead h2 {
 		font-size: 100%;
 		line-height: 150%;
 		margin-top: 0px;
 		font-weight: 300;
 	}
-	
+
 	body.home nav.main-navigation {
 		float: right;
 	}
-	
+
 	body.home div.main-blog-excerpt-meta {
 		float: left;
 		text-align: left;
 		margin-top: 0;
 		margin-bottom: 20px;
 	}
-	
+
 	div.circle {
 		width: 300px;
 		height: 300px;
 		font-size: 150%;
 	}
-	
+
 	div.circle-container {
 		width: 300px;
 		height: 300px;
 	}
-	
+
 	div.footer-column-right {
 		display: none;
 	}
@@ -989,4 +989,3 @@ div.main-blog-excerpt-meta {
 
 /* Individual page CSS
 -------------------------------------------------------------- */
-
