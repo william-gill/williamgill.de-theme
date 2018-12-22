@@ -80,6 +80,9 @@ q:before, q:after {
 }
 blockquote, q {
 	quotes: "" "";
+	border-left: 4px solid black;
+	padding-left: 1.5em;
+	font-style: italic;
 }
 a:focus {
 	outline: thin dotted;
@@ -196,9 +199,6 @@ b, strong {
 }
 dfn, cite, em, i {
 	font-style: italic;
-}
-blockquote {
-	margin: 0 1.5em;
 }
 address {
 	margin: 0 0 1.5em;
@@ -555,6 +555,11 @@ article {
 
 div.entry-content {
 	font-family: Calluna, Georgia, serif;
+}
+
+div.entry-content h2 {
+	font-weight: 600;
+	font-size: 150%;
 }
 
 div.entry-meta, footer.entry-meta {
@@ -938,11 +943,6 @@ div.main-blog-excerpt-meta {
 		font-size: 4em;
 	}
 
-	body.home div.site-branding h2.site-description {
-		font-size: 1.5em;
-		margin-top: 15px;
-	}
-
 	body.home div.site-branding {
 		float: left;
 	}
@@ -955,7 +955,6 @@ div.main-blog-excerpt-meta {
 		font-size: 100%;
 		line-height: 150%;
 		margin-top: 0px;
-		font-weight: 300;
 	}
 
 	body.home nav.main-navigation {

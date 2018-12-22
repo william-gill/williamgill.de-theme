@@ -11,7 +11,7 @@
 	</div><!-- #content -->
 
 	<footer id="colophon" role="contentinfo">
-		
+
 		<div id="site-generator">
 			<div class="footer-column-right">
 				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
@@ -26,7 +26,7 @@
 						<li><a class="footer-link" href="http://williamgill.de/wills-blog" title="William Gill - Blog">Blog</a></li>
 					</ul>
 				</div>
-				
+
 				<div class="footer-column">
 					<h2>Connect</h2>
 					<ul>
@@ -37,19 +37,19 @@
 						<li><a class="footer-link" href="http://instagram.com/willgill83" title="William Gill on Instagram">Instagram</a></li>
 					</ul>
 				</div>
-				
-				
+
+
 				<br class="clear" />
 			</div>
 			<hr />
-			
-			
+
+
 			<div class="footer-bottom">
 				<?php do_action( 'toolbox_credits' ); ?>
-				© Copyright 2017 William Gill. Site design and development by William Gill.
+				© Copyright 2018 William Gill. Site design and development by William Gill.
 				<span class="sep"> | </span>
 				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'toolbox' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'toolbox' ); ?>" rel="generator"><?php printf( __( 'Powered by %s', 'toolbox' ), 'WordPress' ); ?></a>.
-			</div>	
+			</div>
 
 		<br class="clear" />
 		</div><!-- #site-generator -->
